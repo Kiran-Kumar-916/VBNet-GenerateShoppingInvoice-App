@@ -71,3 +71,18 @@ By following these instructions, you should be able to run the application and e
 
 
 
+## About Forms and Classes
+
+Forms and Classes are organized as follows:
+
+FormHome.vb: Homepage.
+FormProducts.vb: Form used for adding, updating, and deleting products.
+FormCategories.vb: Form used for adding, updating, and deleting categories.
+FormCustomers.vb: Form used for adding, updating, and deleting customer details.
+FormCart.vb: Form used for the shopping cart feature.
+FormPayment.vb: Form used to show selected products and payment details with discounts and tax.
+FormInvoice.vb: Form used to show the FINAL INVOICE after payment.
+CommonClasses.vb: All the commonly used reusable classes are placed here.
+
+This setup ensures that each form and class is clearly defined with its respective functionality.
+
