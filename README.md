@@ -3,7 +3,7 @@
 ## Project Overview
 This Project is designed to handle essential e-commerce functions, with a focus on flexibility in product and customer management, as well as sophisticated discount and tax handling. The modular approach of managing each aspect (products, categories, customers) through separate forms ensures scalability and maintainability of the application.
 
-1. Homepage
+1. Home Window
    
       •	Features: The homepage serves as the control center for managing the core data of the application, including Products, Categories, and Customers.
 
@@ -39,7 +39,7 @@ This Project is designed to handle essential e-commerce functions, with a focus 
 	Flat Discount: If a coupon code is entered and the total order amount is greater than Rs.500, a flat discount of Rs.500 is applied.
 (Example coupen code considered here as ‘FLAT500‘)
 
-6. Invoice Generation
+6. Invoice Generation Window
    
       •	Purpose: Once the payment process is completed, an invoice is generated.
    
