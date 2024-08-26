@@ -1,6 +1,6 @@
 # VBNet-GenerateShoppingInvoice-App
 
-##Project Overview
+## Project Overview
 This Project is designed to handle essential e-commerce functions, with a focus on flexibility in product and customer management, as well as sophisticated discount and tax handling. The modular approach of managing each aspect (products, categories, customers) through separate forms ensures scalability and maintainability of the application.
 
 1. Homepage
