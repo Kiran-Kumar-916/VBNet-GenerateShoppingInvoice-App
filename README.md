@@ -1,39 +1,50 @@
 # VBNet-GenerateShoppingInvoice-App
 
 ## Project Overview
-This Project is designed to handle essential e-commerce functions, with a focus on flexibility in product and customer management, as well as sophisticated discount and tax handling. The modular approach of managing each aspect (products, categories, customers) through separate forms ensures scalability and maintainability of the application.
+This project is designed to handle essential e-commerce functions with a strong focus on flexibility in product and customer management, as well as sophisticated handling of discounts and taxes. The modular approach, where each aspect such as products, categories, and customers is managed through separate forms, ensures scalability and maintainability of the application.
+
+The project follows enterprise application architecture, specifically a 3-tier structure, consisting of the following layers:
+
+UIL (User Interface Layer): Handles all user interactions.
+
+BLL (Business Logic Layer): Implements business rules and logic.
+
+DAL (Data Access Layer): Manages data storage and retrieval.
+
+This design promotes clean separation of concerns, making the application more adaptable to changes and easier to maintain.
+
 
 1. Home Window
    
-      •	Features: The homepage serves as the control center for managing the core data of the application, including Products, Categories, and Customers.
-
-      •	Actions Available:
-
+	• Features: The homepage serves as the control center for managing the core data of the application, including Products, Categories, and Customers.
+	
+	• Actions Available:
+	
 	Create: Add new products, categories, or customers to the system.
 	Update: Modify existing entries for products, categories, or customers.
 	Delete: Remove products, categories, or customers from the system.
-        Product has as attributes like:  
-                name	description	category	price	quantity	discount rate
-        Categoy has as attributes like:  
-                name	description	tax rate
-        Customer has as attributes like: 
-                name	email	address	contact num
-
-      •	Implementation: Each of these actions is managed via separate forms to keep the data handling clean and modular.
+	Product has as attributes like:  
+		name	description	category	price	quantity	discount rate
+	Categoy has as attributes like:  
+		name	description	tax rate
+	Customer has as attributes like: 
+		name	email	address	contact num
+	
+	• Implementation: Each of these actions is managed via separate forms to keep the data handling clean and modular.
 
 2. Cart Window
    
-      •	Purpose: The cart window allows users to add products from the available stock to their shopping cart.
+	• Purpose: The cart window allows users to add products from the available stock to their shopping cart.
    
-      •	Key Functionality:
+	• Key Functionality:
 	Displays the available products in stock.
 	Allows the user to add selected products to the cart for purchase.
 
 4. Payment Window
    
-      •	Purpose: The payment window handles the final calculation of the order total, incorporating discounts and taxes. And shows option to proceed payment by selecting one of the payment option.
+	• Purpose: The payment window handles the final calculation of the order total, incorporating discounts and taxes. And shows option to proceed payment by selecting one of the payment option.
    
-      •	Key Features:
+	• Key Features:
 	Percentage Discounts: Each product may have a percentage discount applied during calculation.
 	Tax Application: Tax is applied based on the category of the product.
 	Flat Discount: If a coupon code is entered and the total order amount is greater than Rs.500, a flat discount of Rs.500 is applied.
@@ -41,9 +52,9 @@ This Project is designed to handle essential e-commerce functions, with a focus 
 
 6. Invoice Generation Window
    
-      •	Purpose: Once the payment process is completed, an invoice is generated.
+	• Purpose: Once the payment process is completed, an invoice is generated.
    
-      •	Key Features:
+	• Key Features:
 	Customer Details: Displays the relevant customer information.
 	Purchased Products: Lists all the products included in the order.
 	Discount and Tax Breakdown: Shows the discounts (both percentage and flat) and the taxes applied to each product.
@@ -57,9 +68,9 @@ This Project is designed to handle essential e-commerce functions, with a focus 
 The application is built using Visual Basic .NET and uses CSV files for data storage. To successfully run the application, please ensure the following:
 1.	Required CSV Files:
 	The following three CSV files should be present in the application directory (i.e., the directory where the executable file is located):
-      1.	Products.csv
-      2.	Categories.csv
-      3.	Customers.csv
+      	1.	Products.csv
+      	2.	Categories.csv
+     	 3.	Customers.csv
          
 	Each of these file should contain the appropriate header row.
 
@@ -86,25 +97,38 @@ By following these instructions, you should be able to run the application and e
 
 
 ## About Forms and Classes
+The project follows enterprise application architecture, specifically a 3-tier structure, consisting of the following layers:
 
-Forms and Classes are organized as follows:
+UIL (User Interface Layer): Handles all user interactions.
 
-FormHome.vb: Homepage.
+ 	FormHome.vb: Homepage.
 
-FormProducts.vb: Form used for adding, updating, and deleting products.
+	FormProducts.vb: Form used for adding, updating, and deleting products.
 
-FormCategories.vb: Form used for adding, updating, and deleting categories.
+	FormCategories.vb: Form used for adding, updating, and deleting categories.
 
-FormCustomers.vb: Form used for adding, updating, and deleting customer details.
+	FormCustomers.vb: Form used for adding, updating, and deleting customer details.
 
-FormCart.vb: Form used for the shopping cart feature.
+	FormCart.vb: Form used for the shopping cart feature.
 
-FormPayment.vb: Form used to show selected products and payment details with discounts and tax.
+	FormPayment.vb: Form used to show selected products and payment details with discounts and tax.
 
-FormInvoice.vb: Form used to show the final invoice after payment.
+	FormInvoice.vb: Form used to show the final invoice after payment.
 
-CommonClasses.vb: All the commonly used reusable classes are placed here.
+   
+BLL (Business Logic Layer): Implements business rules and logic.
 
-This setup ensures that each form and class is clearly defined with its respective functionality.
+	BusinessLogic.vb : Class used for handling base total calculation, discounts and tax calculation. Also responsible for Invoice Generation.
+    
+
+DAL (Data Access Layer): Manages data storage and retrieval.
+
+	DataAccessClass.vb : Class used for communicating between UI and Database.
+    
+	DatabaseHandler.vb : Class used for perform CRUD operations on the database through IDatabaseHandler interface inorder to avoid Tight Coupling. Here CSV file is considered as database.
+ 
+
+This design promotes clean separation of concerns, making the application more adaptable to changes and easier to maintain.
+
 
 
