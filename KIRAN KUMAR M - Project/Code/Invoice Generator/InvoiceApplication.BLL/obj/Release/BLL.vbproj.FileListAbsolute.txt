@@ -1,0 +1,8 @@
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\BLL\obj\Release\BLL.Resources.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\BLL\obj\Release\BLL.vbproj.GenerateResource.Cache
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\BLL\bin\Release\BLL.dll
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\BLL\bin\Release\BLL.pdb
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\BLL\bin\Release\BLL.xml
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\BLL\obj\Release\BLL.dll
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\BLL\obj\Release\BLL.xml
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\BLL\obj\Release\BLL.pdb

@@ -1,0 +1,8 @@
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\DAL\obj\Debug\DAL.Resources.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\DAL\bin\Debug\DAL.dll
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\DAL\bin\Debug\DAL.pdb
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\DAL\bin\Debug\DAL.xml
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\DAL\obj\Debug\DAL.dll
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\DAL\obj\Debug\DAL.xml
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,88 @@
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\obj\x86\Release\InvoiceApplication.UIL.vbprojResolveAssemblyReference.cache
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\obj\x86\Release\UI.FormInvoice.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\obj\x86\Release\UI.Resources.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\obj\x86\Release\InvoiceApplication.UIL.vbproj.GenerateResource.Cache
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\bin\Release\BLL.dll
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\bin\Release\DAL.dll
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\bin\Release\BLL.pdb
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\bin\Release\BLL.xml
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\bin\Release\DAL.pdb
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\bin\Release\DAL.xml
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\obj\x86\Release\UI.FormCart.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\obj\x86\Release\UI.FormCategories.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\obj\x86\Release\UI.FormCustomers.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\obj\x86\Release\UI.FormHome.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\obj\x86\Release\UI.FormPayment.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\obj\x86\Release\UI.FormProducts.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\bin\Release\Invoice Generator.exe
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\bin\Release\Invoice Generator.pdb
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\bin\Release\Invoice Generator.xml
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\obj\x86\Release\Invoice Generator.exe
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\obj\x86\Release\Invoice Generator.xml
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\UIL\obj\x86\Release\Invoice Generator.pdb
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\bin\Release\Invoice Generator.exe
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\bin\Release\Invoice Generator.pdb
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\bin\Release\Invoice Generator.xml
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\bin\Release\BLL.dll
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\bin\Release\DAL.dll
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\bin\Release\BLL.pdb
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\bin\Release\BLL.xml
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\bin\Release\DAL.pdb
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\bin\Release\DAL.xml
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\InvoiceApplication.UIL.vbprojResolveAssemblyReference.cache
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\UI.FormCart.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\UI.FormCategories.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\UI.FormCustomers.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\UI.FormHome.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\UI.FormInvoice.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\UI.FormPayment.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\UI.FormProducts.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\UI.Resources.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\InvoiceApplication.UIL.vbproj.GenerateResource.Cache
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\Invoice Generator.exe
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\Invoice Generator.xml
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\Invoice Generator.pdb
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\obj\x86\Release\Invoice Generator.exe
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\obj\x86\Release\Invoice Generator.xml
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\obj\x86\Release\Invoice Generator.pdb
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\bin\Release\Invoice Generator.exe
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\bin\Release\Invoice Generator.pdb
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\bin\Release\Invoice Generator.xml
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\bin\Release\BLL.dll
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\bin\Release\DAL.dll
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\bin\Release\BLL.pdb
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\bin\Release\BLL.xml
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\bin\Release\DAL.pdb
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\bin\Release\DAL.xml
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\obj\x86\Release\InvoiceApplication.UIL.vbprojResolveAssemblyReference.cache
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\obj\x86\Release\UI.FormCart.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\obj\x86\Release\UI.FormCategories.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\obj\x86\Release\UI.FormCustomers.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\obj\x86\Release\UI.FormHome.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\obj\x86\Release\UI.FormInvoice.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\obj\x86\Release\UI.FormPayment.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\obj\x86\Release\UI.FormProducts.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\obj\x86\Release\UI.Resources.resources
+D:\Desktop\Kiran Kumar\Coding\new - Copy\KIRAN KUMAR M - Project\Code\Invoice Generator - Copy\InvoiceApplication.UIL\obj\x86\Release\InvoiceApplication.UIL.vbproj.GenerateResource.Cache
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\bin\Release\Invoice Generator.exe
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\bin\Release\Invoice Generator.pdb
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\bin\Release\Invoice Generator.xml
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\bin\Release\BLL.dll
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\bin\Release\DAL.dll
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\bin\Release\BLL.pdb
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\bin\Release\BLL.xml
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\bin\Release\DAL.pdb
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\bin\Release\DAL.xml
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\InvoiceApplication.UIL.vbprojResolveAssemblyReference.cache
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\UI.FormCart.resources
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\UI.FormCategories.resources
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\UI.FormCustomers.resources
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\UI.FormHome.resources
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\UI.FormInvoice.resources
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\UI.FormPayment.resources
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\UI.FormProducts.resources
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\UI.Resources.resources
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\InvoiceApplication.UIL.vbproj.GenerateResource.Cache
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\Invoice Generator.exe
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\Invoice Generator.xml
+D:\Desktop\Kiran Kumar\Coding\new\KIRAN KUMAR M - Project\Code\Invoice Generator\InvoiceApplication.UIL\obj\x86\Release\Invoice Generator.pdb
