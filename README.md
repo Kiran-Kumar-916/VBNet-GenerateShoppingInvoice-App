@@ -5,11 +5,12 @@ This project is designed to handle essential e-commerce functions with a strong 
 
 The project follows enterprise application architecture, specifically a 3-tier structure, consisting of the following layers:
 
-UIL (User Interface Layer): Handles all user interactions.
+	UIL (User Interface Layer): Handles all user interactions.
 
-BLL (Business Logic Layer): Implements business rules and logic.
+	BLL (Business Logic Layer): Implements business rules and logic.
 
-DAL (Data Access Layer): Manages data storage and retrieval.
+	DAL (Data Access Layer): Manages data storage and retrieval.
+ 
 
 This design promotes clean separation of concerns, making the application more adaptable to changes and easier to maintain.
 
