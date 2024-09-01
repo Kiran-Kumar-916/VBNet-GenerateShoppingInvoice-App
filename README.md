@@ -80,7 +80,7 @@ The application is built using Visual Basic .NET and uses CSV files for data sto
 	The ‘Icons’ folder, containing 3 image files, is already provided in the application directory.
 
 6.	Project Documentation:
-	For a more detailed overview of the project, you can refer to the ‘Project Overview.docx’ file included in the application directory.
+	For a more detailed overview of the project, you can refer to the ‘Project Overview' which is given above.
 By following these instructions, you should be able to run the application and explore its features effectively.
 
 
